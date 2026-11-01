@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": "word-atlas-open",
+      "name": "雅思全库",
+      "desc": "7,298 词 · 开放词库全量",
+      "file": null
+    },
+    {
+      "id": "word-atlas-chem",
+      "name": "化学英语",
+      "desc": "92 词 · 化学、实验室与材料",
+      "file": "chem-core.json"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.local/
+.env
+.env.*
+!.env.example
+output/
+*.zip
+.DS_Store
+.playwright-cli/
+*.tsbuildinfo
+dev.log
+.workbuddy/
